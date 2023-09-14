@@ -1,0 +1,30 @@
+Github - Saving of code
+ commands 
+1.git clone url
+2.git add *
+3.git commit - m "messenger"
+4.git push  
+5.git checkout
+
+Errors occurred
+C:\Users\3515>git add*
+git: 'add*' is not a git command. See 'git --help'.
+
+The most similar command is
+        add
+
+C:\Users\3515>git status
+fatal: not a git repository (or any of the parent directories): .git
+
+
+3 commands worked correctly 
+C:\Users\3515\OneDrive\Desktop\git\Project> git add *
+
+C:\Users\3515\OneDrive\Desktop\git\Project> git status
+On branch main
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   Github.txt
